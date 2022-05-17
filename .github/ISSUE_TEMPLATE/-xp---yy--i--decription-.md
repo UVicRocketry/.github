@@ -9,6 +9,9 @@ assignees: ''
 
 **Description**
  <Describe what the feature or bug that need to be resolved>
+ <Description of the big component that encompasses the issue working on>
+ <Depencies, ex. libraries, sensors, hardware, small parts of code youhave to work on>
+ <the how to do the things>
 
 **Acceptance Criteria**
  <Write specifically what is need for this issue to be completed>
