@@ -1,22 +1,25 @@
 ---
-name: "<XX><YY>-I <Description>"
-about: Non-rocket Issue. See naming in software process on the wiki
+name: "Ticket"
+about: Issue template for all software of UVR
 title: ''
 labels: help wanted
 assignees: ''
 
 ---
+[comment]: # (Reminder: Add to a milestone)
+[comment]: # (Reminder: add labels)
 
-**Description**
- <Describe what the feature or bug that need to be resolved>
+# Description
+[comment]: # (Describe what the feature or bug that need to be resolved)
 
-**Acceptance Criteria**
- <Write specifically what is need for this issue to be completed>
+# Acceptance Criteria
+[comment]: # (Write specifically what is need for this issue to be completed)
 
-**Dev Notes**
-[for assignee]<write down your thought process when developing this issue>
+# Dev Notes
+[comment]: # (write down your thought process when developing this issue)
 
-**Linked issues**
- <If there are any related issues>
+# QA Notes
+[comment]: # (how to test youre ticket)
+## Linked issues
+[comment]: # (If there are any related issues)
 
-<Add to milestone>
